@@ -5,7 +5,7 @@ This repo has been created to save the codes and notes of BELTEK C# and ASP.NET 
 
 **Ders Konuları:**
 
-1. *ders_05012022:* 
+1. *ders_03012022-ders_05012022:* 
 
 + HTML CSS özelliklerinin kullanımı
 + HTML ve CS (Csharp) dosyaları arasında bağlantının sağlanması, TextBox'lardan veri okunması ve Button kullanımı
