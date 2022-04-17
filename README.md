@@ -37,4 +37,9 @@ This repo has been created to save the codes and notes of BELTEK C# and ASP.NET 
 
 + C#'da for döngüsü, if-else yapıları, diziler ve DropDownList kullanımları
 + C#'da PageLoad da kod yazımı
-+ **Proje:** Farklı araçlar ve belirli özelliklere bağlı olarak MTV Ödemesi hesaplaması yapan program
++ **Proje:** Farklı araçlar ve belirli özelliklere bağlı olarak MTV Ödemesi hesaplaması yapan program 
+
+7. *ders_26012022:* 
+
++ HTML üzerinde ASP.NET nesneleri ile birlikte CSS, Bootstrap ve NavBar(Menu) kullanımı
++ ASP.NET'de TextBox ve Buttonlara CSS özelliği ekleme
