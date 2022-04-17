@@ -16,3 +16,7 @@ This repo has been created to save the codes and notes of BELTEK C# and ASP.NET 
 + HTML'e giriş
 + Csharp'da kullanılan değişkenler (integer,string,char,float,double,boolean), if-else döngüsü
 
+3. *ders_10012022:* 
+
++ Csharp'da if-else döngülerinin TextBox'larla bağlantılı şekilde çalışması ve ekrana sonuç yazdırılması
+
