@@ -32,3 +32,9 @@ This repo has been created to save the codes and notes of BELTEK C# and ASP.NET 
 + C#'da farklı sayfaları tek bir içerik sayfasına (default ya da hata sayfasına) yönlendirme
 + C#'da DropDownList kullanımları
 + **Proje:** Büyükşehir Belediyesi sitesinin başlangıç seviye klonu
+
+6. *ders_17012022-ders_19012022:* 
+
++ C#'da for döngüsü, if-else yapıları, diziler ve DropDownList kullanımları
++ C#'da PageLoad da kod yazımı
++ **Proje:** Farklı araçlar ve belirli özelliklere bağlı olarak MTV Ödemesi hesaplaması yapan program
