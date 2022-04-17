@@ -30,5 +30,5 @@ This repo has been created to save the codes and notes of BELTEK C# and ASP.NET 
 5. *ders_14012022:* 
 
 + C#'da farklı sayfaları tek bir içerik sayfasına (default ya da hata sayfasına) yönlendirme
-+ C#'da DropownList kullanımları
++ C#'da DropDownList kullanımları
 + **Proje:** Büyükşehir Belediyesi sitesinin başlangıç seviye klonu
