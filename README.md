@@ -19,4 +19,11 @@ This repo has been created to save the codes and notes of BELTEK C# and ASP.NET 
 3. *ders_10012022:* 
 
 + Csharp'da if-else döngülerinin TextBox'larla bağlantılı şekilde çalışması ve ekrana sonuç yazdırılması
++ **Proje:** Vize ve Final notlarını kullanarak not ortalamasını hesaplayan ve ortalamayı harf notuna dönüştüren bir program
+
+4. *ders_12012022:* 
+
++ Csharp'da MasterPage, içerik sayfası ve ContentPlaceHolder kullanımı
++ Csharp'ta arkaplana fotoğraf ekleme ve birkaç fraklı sayfaya buttonlar aracılığı ile yönlendirme
++ **Proje:** Boy ve kilo verilerini kullanıcıdan alınarak Vücut Kitle Endeksini hesaplayarak sonucu ekrana yazdıran program
 
