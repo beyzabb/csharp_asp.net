@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Kullanici.master.cs" Inherits="ders_16032022.Kullanici" %>
+
+<html lang="tr">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="shortcut icon" href="logo/car_logo.png" />
+    <title>
+        Green Araç Kiralama
+    </title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: green;">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="#">Green Araç Kiralama</a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                
+                                <a class="nav-link active" aria-current="page" href="Anasayfa.aspx">Anasayfa</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="#">Hakkımızda</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="Filomuz.aspx">Filomuz</a>
+                            </li>
+                            <li class="nav-item">
+                                <asp:Button ID="btn_giris" runat="server" Text="Giriş" CssClass="btn btn-outline-light"/>
+                            </li>
+                            <li class="nav-item">
+                                <asp:Label ID="lbl_user" runat="server" Text="Label" CssClass="nav-link disabled">Merhaba</asp:Label>   
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <br />
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <script src="js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+
+
