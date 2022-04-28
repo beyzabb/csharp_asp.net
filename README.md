@@ -53,5 +53,8 @@ This repo has been created to save the codes and notes of BELTEK C# and ASP.NET 
 + HTML de Bootstrap üzerinden class,container,div,column,row,Navbar,Slider,Card,Accordion öğeleri kullanımı
 + Session yapıların ana mantığı
 + ASP.NET'de TextBox ve Buttonlara CSS özelliği ekleme
-**Proje:** Bir pizza sipariş sitesinin anasayfa,kampanyalar gibi farklı sayfaları oluşturulup pizza detayı, boyutu, hamuru, malzemesi,ekstra malzemesi gibi özellikleri seçilenmesini sağlayan program
++ **Proje:** Bir pizza sipariş sitesinin anasayfa,kampanyalar gibi farklı sayfaları oluşturulup pizza detayı, boyutu, hamuru, malzemesi,ekstra malzemesi gibi özellikleri seçilenmesini sağlayan program
 
+10. *ders_16032022:* 
+
++ **Proje:** Basit araç kiralama sitesi kopyası (Belirli bir seviyeye kadar getirilen proje yapım işlemleri hala devam etmektedir.)
